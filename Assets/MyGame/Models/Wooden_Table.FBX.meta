@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 2aafd8dcfa4ab404bbebf650eb5c53bb
+timeCreated: 1476316499
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box9486
+    100002: Box9488
+    100004: Box9489
+    100006: Box9490
+    100008: Box9491
+    100010: Box9492
+    100012: Box9493
+    100014: Box9494
+    100016: Box9495
+    100018: Box9497
+    100020: Cylinder022
+    100022: Sphere001
+    100024: Sphere003
+    100026: Sphere004
+    100028: Sphere005
+    100030: Sphere006
+    100032: Sphere007
+    100034: Sphere008
+    100036: //RootNode
+    400000: Box9486
+    400002: Box9488
+    400004: Box9489
+    400006: Box9490
+    400008: Box9491
+    400010: Box9492
+    400012: Box9493
+    400014: Box9494
+    400016: Box9495
+    400018: Box9497
+    400020: Cylinder022
+    400022: Sphere001
+    400024: Sphere003
+    400026: Sphere004
+    400028: Sphere005
+    400030: Sphere006
+    400032: Sphere007
+    400034: Sphere008
+    400036: //RootNode
+    2300000: Box9486
+    2300002: Box9488
+    2300004: Box9489
+    2300006: Box9490
+    2300008: Box9491
+    2300010: Box9492
+    2300012: Box9493
+    2300014: Box9494
+    2300016: Box9495
+    2300018: Box9497
+    2300020: Cylinder022
+    2300022: Sphere001
+    2300024: Sphere003
+    2300026: Sphere004
+    2300028: Sphere005
+    2300030: Sphere006
+    2300032: Sphere007
+    2300034: Sphere008
+    3300000: Box9486
+    3300002: Box9488
+    3300004: Box9489
+    3300006: Box9490
+    3300008: Box9491
+    3300010: Box9492
+    3300012: Box9493
+    3300014: Box9494
+    3300016: Box9495
+    3300018: Box9497
+    3300020: Cylinder022
+    3300022: Sphere001
+    3300024: Sphere003
+    3300026: Sphere004
+    3300028: Sphere005
+    3300030: Sphere006
+    3300032: Sphere007
+    3300034: Sphere008
+    4300000: Box9486
+    4300002: Box9488
+    4300004: Box9493
+    4300006: Box9491
+    4300008: Box9494
+    4300010: Box9492
+    4300012: Box9490
+    4300014: Box9489
+    4300016: Cylinder022
+    4300018: Sphere001
+    4300020: Sphere003
+    4300022: Sphere004
+    4300024: Sphere005
+    4300026: Sphere006
+    4300028: Sphere007
+    4300030: Sphere008
+    4300032: Box9497
+    4300034: Box9495
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
